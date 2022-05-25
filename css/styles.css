@@ -1,0 +1,14 @@
+h2.important{
+  color: red;
+  font-style: bold;
+}
+
+p.important{
+  background-color: blanchedalmond;
+}
+
+img.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
