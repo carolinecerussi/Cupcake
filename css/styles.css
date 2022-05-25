@@ -1,14 +1,18 @@
-h2.important{
+.important{
   color: red;
   font-style: bold;
 }
 
-p.important{
-  background-color: blanchedalmond;
+.unimportant{
+  background-color: gold;
 }
 
 img.center{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.highlight{
+  font-style: italic;
 }
